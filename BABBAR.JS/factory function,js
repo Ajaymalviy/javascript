@@ -1,0 +1,16 @@
+function Rectangle(len,bre,)
+    let obj1={
+        len,
+        bre,
+        hope(){
+            console.log('hoping')
+        }
+    };
+let rec1=Rectangle(4,6);
+console.log(Rectangle.len)
+    // let x= Rectangle(8,3
+     //console.log(x.a);
+     //consolke.log(obj1.a);
+
+
+}//backtick jis syyntx me string denge usi ,e print hogi;;

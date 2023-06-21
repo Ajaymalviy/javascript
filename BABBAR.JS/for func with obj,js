@@ -1,0 +1,14 @@
+let a=12;
+function inc(){
+    a++;
+}
+console.log(a)
+
+
+
+let b={value:5};
+inc(b)
+{
+    b++
+};
+console.log(b);

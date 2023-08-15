@@ -4,9 +4,9 @@ function Rectangle(){
     this.draw=function(){
         console.log('drawing');
     }
-}
- let obj1= new Rectangle();
+ }
+ let obj1= new Rectangle();//object are created
  console.log(obj1)
  console.log(obj1.age);
- obj1.colour='yellow';
+ obj1.colour='yellow';//callig the data member by object
  console.log(obj1.colour);

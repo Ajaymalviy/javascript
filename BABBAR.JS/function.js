@@ -12,6 +12,6 @@
     };
     return rectangle;
 }
-  let rectangleobj1=creatfunction(5,6)
+  let rectangleobj1=creatfunction(5,6) //object 
   rectangleobj1.color='yello'
   console.log(rectangleobj1.color)

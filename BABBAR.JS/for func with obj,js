@@ -1,14 +1,14 @@
-let a=12;
+let variable_a=12;
 function inc(){
-    a++;
+    variable_a++;
 }
 console.log(a)
 
 
 
-let b={value:5};
-inc(b)
+let variable_b={value:5};
+inc(variable_b)
 {
-    b++
+    variable_b++
 };
 console.log(b);
